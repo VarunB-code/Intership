@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="num1_hint">Enter first number</string>
+    <string name="num2_hint">Enter second number</string>
+    <string name="result_text">Result: 0</string>
+    <string name="add_button">+</string>
+    <string name="subtract_button">-</string>
+    <string name="multiply_button">*</string>
+    <string name="divide_button">/</string>
+</resources>

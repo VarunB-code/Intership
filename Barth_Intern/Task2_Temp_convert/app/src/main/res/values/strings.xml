@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">"Temperature Converter "</string>
+    <string name="convertHelp">Please enter the temperature value you wish to convert in the text box bellow and press the corresponding radio button and click the CONVERT button.</string>
+</resources>
